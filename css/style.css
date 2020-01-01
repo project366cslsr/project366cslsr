@@ -1,0 +1,18 @@
+img {box-shadow:0 1px 128px 0 lightblue, 0 6px 30px 0 #ffd8a6;}
+h5 {margin-bottom:1em;}
+#copyright {font-family:Verdana, monospace, Times; font-size:13px;}
+#notes {padding:5px 10px 5px 10px; background-color:#fafafa; font-family:monospace; font-size:12px; box-shadow:1px 2px 5px 0 #0f3f4b,2px 4px 9px 0 #fcd991;}
+#tracklist {font-family:monospace; font-size:13px; padding:2px 0 1px 10px;}
+.content {padding:0.8rem; margin:0 auto; max-width:960px;}
+.logo {border-radius:10px;}
+.words-pkg {background-color:#fffdfd; box-shadow:0 2px 5px 0 rgba(0,0,0,0.55), 0 2px 10px 0 rgba(0,0,0,0.55);}
+.words-pkg .pkg-content {vertical-align:middle;}
+.pkg-content {padding:20px; border-radius:0 0 2px 2px;}
+.pkg-content p {margin:0; color:inherit;}
+.pkg-content .pkg-title {line-height:48px;}
+.pkg-content ::selection {background-color:#0f3f4b; color:#fcd991;}
+.pkg-title {font-weight:300; font-size:24px;}
+.pkg-btn {position:relative; background-color:inherit; border-top:1px solid rgba(160,160,160,.2); padding:20px;}
+.btn {border:none; border-radius:2px; display:inline-block; outline:0; padding:0 2rem; text-transform:uppercase; vertical-align:middle; text-align:center; color:#fcd991; background-color:#0f3f4b; letter-spacing:.5px; transition:.2s ease-out; cursor:pointer; height:64px; line-height:64px; text-decoration:none;}
+.btn,.words-pkg {box-shadow:0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);}
+.btn:hover {background-color:#fcd991; color:#0f3f4b; box-shadow:0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15);}
